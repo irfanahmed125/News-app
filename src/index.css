@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  font-family: "Archivo", sans-serif;
+
+}
+
+#theme-button{
+
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  border: none;
+  height: 65px;
+  width: 65px;
+  border-radius: 50%;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  
+
+}
+
+
